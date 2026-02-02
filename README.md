@@ -67,13 +67,12 @@ More parameters and operating logic are available in the "Parameter Guide & Trad
    ```bash
    pip install python-binance pandas
    ```
-   Enter your Binance API Key and Secret in the `CONFIGURATION` section of the script. (Note: Only 'Read' permissions are required for scanning).
 3. **Run the scanner:**
    ```bash
    python scanner.py
    ```
 
-(4. **Setup API Keys:** This is not necessary!)
+**Setup API Keys:** This is not necessary!
 ---
 
 ## 📈 Example Output
