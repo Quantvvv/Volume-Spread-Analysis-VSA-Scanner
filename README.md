@@ -54,7 +54,7 @@ Automatically detects **Bullish/Bearish Pressure** by analyzing wicks (shadows):
 | `MIN_VOLUME_SPIKE` | 1.5 | Minimum volume surge required (1.5x vs average). |
 | `REFERENCE_WINDOW` | 200 | Lookback period for calculating statistical baseline. |
 | `METRIC_TYPE` | `true_range` | The math model for price movement calculation. |
-
+More parameters and operating logic are available in the "Parameter Guide & Trading Logic.md" file.
 ---
 
 ## 🚀 Installation & Usage
